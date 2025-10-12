@@ -1,105 +1,55 @@
+<h2 align="center">👋 Olá, eu sou o Lucas Viana, desenvolvedor Full-Stack!</h2>
 
-<!-- Header animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2A0635&height=180&section=header&text=Lucas%20Viana%20%20de%20Araújo&fontSize=70&fontColor=FFD54A&fontAlignY=35&animation=scaleIn" alt="header" />
-</p>
+###
 
-<!-- Texto animado digitando -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=FFD54A&center=true&vCenter=true&width=600&lines=Programador+Full-Stack;Apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+perfil!🚀" alt="Typing SVG" />
-</p>
+<h3 align="center">🚀 Sempre aprendendo e buscando construir soluções modernas e eficientes.<br>🎯 Objetivo: dominar tecnologias clássicas e modernas para criar sistemas completos.<br>📚 Apaixonado por estudar, ensinar e compartilhar conhecimento com a comunidade.</h3>
 
-</p>
-
-<!-- Texto animado digitando -->
-
-</p>
-<!-- Banner animado -->
-<h1 align="center">
-  <svg width="100%" height="100">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      font-family="monospace" font-size="28" fill="#FFD54A">
-      <animate attributeName="fill" values="#FFD54A;#D6B9E6;#FFD54A" dur="3s" repeatCount="indefinite"/>
-      Lucas Viana de Araújo — Programador Full-Stack
-    </text>
-  </svg>
-</h1>
-
----
-
-<!-- Sobre Mim -->
-## <span style="color:#FFD54A">👨‍💻 Sobre Mim</span>
-
-<p align="center">
-  <em style="color:#d6b9e6">Sou desenvolvedor focado em soluções Back-End, apaixonado por performance, escalabilidade e boas práticas de código.</em>
-</p>
-
----
-
-
-<!-- Habilidades com destaque -->
-## <span style="color:#FFD54A">🚀 Minhas Habilidades</span>
+###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-2A0635?style=for-the-badge&logo=node.js&logoColor=FFD54A" />
-  <img src="https://img.shields.io/badge/JavaScript-652C7A?style=for-the-badge&logo=javascript&logoColor=FFD54A" />
-  <img src="https://img.shields.io/badge/PostgreSQL-8E4DAE?style=for-the-badge&logo=postgresql&logoColor=FFD54A" />
-  <img src="https://img.shields.io/badge/Docker-D6B9E6?style=for-the-badge&logo=docker&logoColor=2A0635" />
+  <a href="https://www.linkedin.com/in/lucas-viana-developer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="lucasviana333" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
----
+###
 
-<!-- Gráfico animado de commits -->
-## <span style="color:#FFD54A">📊 Estatísticas do GitHub</span>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUser&show_icons=true&theme=tokyonight&title_color=FFD54A&icon_color=FFD54A&text_color=D6B9E6&bg_color=2A0635" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeuUser&theme=tokyonight&ring=FFD54A&fire=FFD54A&currStreakLabel=D6B9E6" />
-</p>
+<img align="right" height="181" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/685ea3bd-bfbc-48cc-b44a-2016b96e85fc/di163zr-d2bcf55d-fc28-4554-a92b-fafcb608a1ac.png/v1/fill/w_894,h_894,q_70,strp/alice_in_chains___facelift_pixel_art_album_cover_by_figubros_di163zr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MiIsInBhdGgiOiIvZi82ODVlYTNiZC1iZmJjLTQ4Y2MtYjQ0YS0yMDE2Yjk2ZTg1ZmMvZGkxNjN6ci1kMmJjZjU1ZC1mYzI4LTQ1NTQtYTkyYi1mYWZjYjYwOGExYWMucG5nIiwid2lkdGgiOiI8PTExODIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.THFHDaMueVguuidvJzsPNIkUfXNIdI1oIR7LgGSAEHQ"  />
 
----
+###
 
-<!-- Gráfico de linguagens -->
-## <span style="color:#FFD54A">💡 Linguagens Mais Usadas</span>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasVianaAraujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasVianaAraujo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUser&layout=compact&title_color=FFD54A&text_color=D6B9E6&bg_color=2A0635" />
-</p>
+###
 
----
+<img src="https://raw.githubusercontent.com/LucasVianaAraujo/LucasVianaAraujo/output/snake.svg" alt="Snake animation" />
 
-<!-- Animação interativa com SVG -->
-## <span style="color:#FFD54A">✨ Interatividade</span>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<!-- Botões -->
-<p align="center">
-  <a href="https://github.com/SeuUser?tab=repositories">
-    <img src="https://img.shields.io/badge/-Ver%20Meus%20Projetos-FFD54A?style=for-the-badge&logo=github&logoColor=2A0635" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-8E4DAE?style=for-the-badge&logo=linkedin&logoColor=FFD54A" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Contato-652C7A?style=for-the-badge&logo=gmail&logoColor=FFD54A" />
-  </a>
-</p>
-
----
-
-<!-- Rodapé -->
-<p align="center" style="color:#d6b9e6; font-size:12px;">
-  Feito com 💜 utilizando a paleta <strong style="color:#FFD54A">#2A0635, #652C7A, #8E4DAE, #FFD54A, #D6B9E6</strong>
-</p>
-
-
-
-
+###

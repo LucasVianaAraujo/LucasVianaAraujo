@@ -39,17 +39,9 @@
 
 ###
 
-<img align="right" height="181" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/685ea3bd-bfbc-48cc-b44a-2016b96e85fc/di163zr-d2bcf55d-fc28-4554-a92b-fafcb608a1ac.png/v1/fill/w_894,h_894,q_70,strp/alice_in_chains___facelift_pixel_art_album_cover_by_figubros_di163zr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MiIsInBhdGgiOiIvZi82ODVlYTNiZC1iZmJjLTQ4Y2MtYjQ0YS0yMDE2Yjk2ZTg1ZmMvZGkxNjN6ci1kMmJjZjU1ZC1mYzI4LTQ1NTQtYTkyYi1mYWZjYjYwOGExYWMucG5nIiwid2lkdGgiOiI8PTExODIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.THFHDaMueVguuidvJzsPNIkUfXNIdI1oIR7LgGSAEHQ"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasVianaAraujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=LucasVianaAraujo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/LucasVianaAraujo/LucasVianaAraujo/output/snake.svg" alt="Snake animation" />
 
 ###

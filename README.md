@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, eu sou o Lucas Viana, desenvolvedor Full-Stack!</h2>
+<h2 align="center">👋 Olá, eu sou o Lucas Viana, desenvolvedor Front-End</h2>
 
 ###
 

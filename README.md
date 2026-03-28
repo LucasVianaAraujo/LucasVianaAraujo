@@ -1,12 +1,12 @@
-<h2 align="center">👋 Olá, eu sou o Lucas Viana, desenvolvedor Full-Stack em formação</h2>
+<h2 align="justify">👋 Olá, eu sou o Lucas Viana, desenvolvedor Full-Stack em formação</h2>
 
 ###
 
-<h3 align="center">🚀 Sempre aprendendo e buscando construir soluções modernas e eficientes.<br>🎯 Objetivo: dominar tecnologias clássicas e modernas para criar sistemas completos.<br>📚 Apaixonado por estudar, ensinar e compartilhar conhecimento com a comunidade.</h3>
+<h3 align="justify">🚀 Sempre aprendendo e buscando construir soluções modernas e eficientes.<br>🎯 Objetivo: dominar tecnologias clássicas e modernas para criar sistemas completos.<br>📚 Apaixonado por estudar, ensinar e compartilhar conhecimento com a comunidade.</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />

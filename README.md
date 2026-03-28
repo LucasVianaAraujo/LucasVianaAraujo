@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">📚 Estudante de Análise e Desenvolvimento de Aistemas e estagiário na empresa Entertech Softwares.</h3>
+<h3 align="center">📚 Estudante de Análise e Desenvolvimento de Sistemas e estagiário na empresa Entertech Softwares.</h3>
 
 ###
 

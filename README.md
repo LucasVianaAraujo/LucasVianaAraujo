@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Sempre aprendendo e buscando construir soluções modernas e eficientes.<br>🎯 Objetivo: dominar tecnologias clássicas e modernas para criar sistemas completos.<br>📚 Apaixonado por estudar, ensinar e compartilhar conhecimento com a comunidade.</h3>
+<h3 align="center">📚 Estudante de análise e desenvolvimento de sistemas e estagiário na empresa Entertech Softwares.</h3>
 
 ###
 
